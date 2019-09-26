@@ -5,6 +5,7 @@ public class HelloWorld {
 		
 		
 		System.out.println("Welcome to Git commit");
+		System.out.println("Welcome to Git commit edited this file");
 	}
 
 }
